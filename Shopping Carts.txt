@@ -1,0 +1,13 @@
+Shopping Carts:
+Comfy Store
+https://github.com/john-smilga/javascript-basic-projects/tree/master/29-comfy-store
+
+Grandmas Cakes
+https://github.com/john-smilga/js-cart-setup
+https://www.youtube.com/watch?v=q_TZhCWbS3I
+
+Tech Shop
+https://www.youtube.com/watch?v=LtTlfxzxlhY
+
+T-Shirts
+https://www.youtube.com/watch?v=UcrypywtAm0 (2021)
